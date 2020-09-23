@@ -3,7 +3,7 @@
 ## Engineering 1
 
 * [Basic CAD](https://github.com/DoctorShields/Basic_CAD)
-* [Basic Arduino](https://github.com/DoctorShields/Basic_Arduino_
+* [Basic Arduino](https://github.com/DoctorShields/Basic_Arduino)
 
 ## Engineering 2
 
